@@ -1,5 +1,6 @@
 # CINLUXE
 CINLUXE is a menu-driven Movie Ticket Booking System developed using the C programming language.It is designed to provide users with a simple and convenient way to book movie tickets through a computer-based application.The system allows users to explore available movies,check seat availability,select their preferred seats,and confirm their bookings.
+
 Code Overview-
 
 <img width="296" height="347" alt="Screenshot 2026-11-03 185308" src="https://github.com/user-attachments/assets/b0811bb4-8cc6-489e-856e-a962a3b4c671" />
